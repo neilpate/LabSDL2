@@ -80,6 +80,7 @@
 				<Item Name="Render Clear Clip Rect.vi" Type="VI" URL="../Render Clear Clip Rect.vi"/>
 				<Item Name="Render Clear.vi" Type="VI" URL="../Render Clear.vi"/>
 				<Item Name="Render Copy (Destination Rect As Cluster).vi" Type="VI" URL="../Render Copy (Destination Rect As Cluster).vi"/>
+				<Item Name="Render Copy Ex (Destination Rect As Cluster).vi" Type="VI" URL="../Render Copy Ex (Destination Rect As Cluster).vi"/>
 				<Item Name="Render Copy.vi" Type="VI" URL="../Render Copy.vi"/>
 				<Item Name="Render Draw Line (Clusters).vi" Type="VI" URL="../Render Draw Line (Clusters).vi"/>
 				<Item Name="Render Draw Line.vi" Type="VI" URL="../Render Draw Line.vi"/>
@@ -87,6 +88,7 @@
 				<Item Name="Render Draw Rect.vi" Type="VI" URL="../Render Draw Rect.vi"/>
 				<Item Name="Render Fill Rect.vi" Type="VI" URL="../Render Fill Rect.vi"/>
 				<Item Name="Render Present.vi" Type="VI" URL="../Render Present.vi"/>
+				<Item Name="Render Read Pixels.vi" Type="VI" URL="../Render Read Pixels.vi"/>
 				<Item Name="Render Set Clip Rect.vi" Type="VI" URL="../Render Set Clip Rect.vi"/>
 				<Item Name="Render Set Viewport.vi" Type="VI" URL="../Render Set Viewport.vi"/>
 				<Item Name="Set Render Draw Colour.vi" Type="VI" URL="../Set Render Draw Colour.vi"/>
@@ -131,6 +133,7 @@
 			<Item Name="RGB.ctl" Type="VI" URL="../Controls/RGB.ctl"/>
 			<Item Name="Pixel Formal.ctl" Type="VI" URL="../Controls/Pixel Formal.ctl"/>
 			<Item Name="Rectangle.ctl" Type="VI" URL="../Controls/Rectangle.ctl"/>
+			<Item Name="Point.ctl" Type="VI" URL="../Controls/Point.ctl"/>
 			<Item Name="Surface.ctl" Type="VI" URL="../Controls/Surface.ctl"/>
 		</Item>
 		<Item Name="Events" Type="Folder">
