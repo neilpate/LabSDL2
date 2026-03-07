@@ -29,9 +29,13 @@
 				<Item Name="16 - Fonts (Render As Texture).vi" Type="VI" URL="../Test/Lazy Foo Tutorials/LabVIEW Port/16 - Fonts (Render As Texture).vi"/>
 				<Item Name="19 - Joysticks.vi" Type="VI" URL="../Test/Lazy Foo Tutorials/LabVIEW Port/19 - Joysticks.vi"/>
 			</Item>
+			<Item Name="Mixer" Type="Folder">
+				<Item Name="Test Play Wav.vi" Type="VI" URL="../Test/Test Play Wav.vi"/>
+			</Item>
 		</Item>
 		<Item Name="LibSDL2.lvlib" Type="Library" URL="../Libraries/LibSDL2 Wrapper/LibSDL2.lvlib"/>
 		<Item Name="LibSDL2_Image.lvlib" Type="Library" URL="../Libraries/LibSDL2_Image Wrapper/LibSDL2_Image.lvlib"/>
+		<Item Name="LibSDL2_Mixer.lvlib" Type="Library" URL="../Libraries/LibSDL2_Mixer Wrapper/LibSDL2_Mixer.lvlib"/>
 		<Item Name="LibSDL2_TTF.lvlib" Type="Library" URL="../Libraries/LibSDL2_TTF Wrapper/LibSDL2_TTF.lvlib"/>
 		<Item Name="SDL2 Utility.lvlib" Type="Library" URL="../Libraries/SDL2 Utility/SDL2 Utility.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
